@@ -1,0 +1,16 @@
+# =============================
+# Setup Instructions (for new device)
+#
+# 
+# 3. Install dependencies:
+#    pip install -r requirements.txt
+# 4. Run the app:
+#    python app.py
+#    # or for production:
+#    gunicorn app:app
+# =============================
+Flask
+flask-cors
+numpy
+sympy
+gunicorn 
