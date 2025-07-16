@@ -45,8 +45,6 @@ smart-calculator/
 
 **This project is designed for learning, DSA demonstration, and easy extension.**
  
-Slide/Intro:
-> Good [morning/afternoon], everyone.
 > Today, I’m excited to present my project: a DSA-powered Smart Calculator web app.
 Problem & Motivation:
 > Traditional calculators are limited—they only compute results, with no insight into the process or underlying logic.
@@ -79,10 +77,3 @@ Demo/Walkthrough:
 Impact & Learning:
 > This project not only helps users calculate, but also learn how algorithms and data structures work in real time.
 > It’s a great educational tool for students and anyone interested in the logic behind calculators.
-Conclusion:
-> Thank you for your attention!
-> I’m happy to answer any questions or show a live demo.
-Tips:
-Practice once or twice to keep it under 2 minutes.
-If you have a live demo, show a quick calculation and a graph plot.
-Smile and speak clearly!
